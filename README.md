@@ -32,21 +32,15 @@
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 5px;">
     <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/GO-000000?style=for-the-badge&logo=go" alt="Go">
     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c" alt="C">
-    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B" alt="C++">
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" alt="CSS3">
     <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript" alt="JavaScript">
     </div>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 5px;">
-    <img src="https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite" alt="SQLite">
-    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon%20aws" alt="AWS">
     <img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme" alt="TryHackMe">
     <img src="https://img.shields.io/badge/HACK%20THE%20BOX-000000?style=for-the-badge&logo=hackthebox" alt="Hack The Box">
-    <img src="https://img.shields.io/badge/HACKERONE-000000?style=for-the-badge&logo=hackerone" alt="HackerOne">
-    <img src="https://img.shields.io/badge/INTIGRITI-000000?style=for-the-badge&logo=intigriti" alt="Intigriti">
   </div>
 </div>
 
