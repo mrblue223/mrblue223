@@ -8,11 +8,6 @@
 
 💡 Knowledge / Skills / Tools 💡
 
-
-
-
-### My Skills & Tools
-
 ![Nmap](https://img.shields.io/badge/Nmap-E4332D?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-EB652B?style=for-the-badge&logo=burp%20suite&logoColor=white)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-2C73D8?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME) [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-20C997?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/profile/YOUR_HTB_PROFILE_ID) ![picoCTF](https://img.shields.io/badge/picoCTF-C41230?style=for-the-badge&logo=picoctf&logoColor=white)
