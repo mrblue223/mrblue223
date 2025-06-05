@@ -26,21 +26,15 @@
 ![Bash](https://img.shields.io/badge/Bash-%23282C34?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-%23282C34?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%23282C34?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23282C34?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%23282C34?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23282C34?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%23282C34?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23282C34?style=for-the-badge&logo=javascript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23282C34?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23282C34?style=for-the-badge&logo=mysql&logoColor=white)
 
-![SQLite](https://img.shields.io/badge/SQLite-%23282C34?style=for-the-badge&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23282C34?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23282C34?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%23282C34?style=for-the-badge&logo=hackthebox&logoColor=white)
-![HackerOne](https://img.shields.io/badge/HackerOne-%23282C34?style=for-the-badge&logo=hackerone&logoColor=white)
-![Intigriti](https://img.shields.io/badge/Intigriti-%23282C34?style=for-the-badge&logo=intigriti&logoColor=white)
+
 
 <!--
 **mrblue223/mrblue223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
