@@ -36,6 +36,7 @@
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23282C34?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%23282C34?style=for-the-badge&logo=hackthebox&logoColor=white)
+![picoCTF](https://img.shields.io/badge/picoCTF-%23282C34?style=for-the-badge&logo=picoctf&logoColor=white)
 
 
 <!--
