@@ -41,7 +41,6 @@
 ![Hack The Box](https://img.shields.io/badge/HACK%20THE%20BOX-000000?style=for-the-badge&logo=hackthebox)
 ![HackerOne](https://img.shields.io/badge/HACKERONE-000000?style=for-the-badge&logo=hackerone)
 ![Intigriti](https://img.shields.io/badge/INTIGRITI-000000?style=for-the-badge&logo=intigriti)
-
 <!--
 **mrblue223/mrblue223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
