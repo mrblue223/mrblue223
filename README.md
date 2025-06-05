@@ -8,9 +8,15 @@
 
 💡 Knowledge / Skills / Tools 💡
 
+
+
+
+### My Skills & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=metasploit,burpsuite,owaspzap,wireshark,windows,linux,kali,debian,ubuntu,git,github,virtualbox,vscode,powershell,bash,python,go,c,cpp,html,css,js,postgresql,mysql,sqlite,aws,tryhackme,hackthebox,hackerone,intigriti" />
+  <img src="https://skillicons.dev/icons?i=nmap,burpsuite,tryhackme,hackthebox,picoctf,overthewire,owasp,cisco,python,html,css,js,kali,ubuntu,debian,virtualbox" />
 </p>
+
 
 ![Nmap](https://img.shields.io/badge/Nmap-E4332D?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-EB652B?style=for-the-badge&logo=burp%20suite&logoColor=white)
