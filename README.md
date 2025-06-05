@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+📊 Present Status 📊
 - 🔭 I’m currently working passing my Network + exam 
 - 🌱 I’m currently learning networking!
 - 👯 I’m a CTF player, who loves new challenges
