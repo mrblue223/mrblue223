@@ -21,7 +21,7 @@
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 5px;">
     <img src="https://img.shields.io/badge/DEBIAN-000000?style=for-the-badge&logo=debian" alt="Debian">
-    <img src="https://img://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu" alt="Ubuntu">
+    <img src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu" alt="Ubuntu">
     <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git" alt="Git">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github" alt="GitHub">
     <img src="https://img.shields.io/badge/VIRTUALBOX-000000?style=for-the-badge&logo=virtualbox" alt="VirtualBox">
