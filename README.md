@@ -8,6 +8,9 @@
 
 💡 Knowledge / Skills / Tools 💡
 
+![Networking](https://img.shields.io/badge/Networking-%23282C34?style=for-the-badge&logo=shield&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%23282C34?style=for-the-badge&logo=cisco&logoColor=white)
+
 ![Metasploit](https://img.shields.io/badge/METASPLOIT-%23282C34?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23282C34?style=for-the-badge&logo=burp%20suite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23282C34?style=for-the-badge&logo=owasp%20zap&logoColor=white)
@@ -31,7 +34,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%23282C34?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23282C34?style=for-the-badge&logo=javascript&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23282C34?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23282C34?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%23282C34?style=for-the-badge&logo=hackthebox&logoColor=white)
 
