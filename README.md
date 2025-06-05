@@ -38,9 +38,7 @@
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" alt="CSS3">
     <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql" alt="MySQL">
-  </div>
+    </div>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 5px;">
     <img src="https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite" alt="SQLite">
