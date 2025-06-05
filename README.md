@@ -33,7 +33,9 @@
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 5px;">
     <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/GO-000000?style=for-the-badge&logo=go" alt="Go">
     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c" alt="C">
+    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B" alt="C++">
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" alt="CSS3">
     <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript" alt="JavaScript">
@@ -46,7 +48,6 @@
     <img src="https://img.shields.io/badge/OVERTHEWIRE-000000?style=for-the-badge&logo=terminal" alt="OverTheWire">
   </div>
 </div>
-
 
 <!--
 **mrblue223/mrblue223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
