@@ -45,8 +45,6 @@
     <img src="https://img.shields.io/badge/HACK%20THE%20BOX-000000?style=for-the-badge&logo=hackthebox" alt="Hack The Box">
     <img src="https://img.shields.io/badge/PICOCTF-000000?style=for-the-badge&logo=picoctf" alt="picoCTF">
     <img src="https://img.shields.io/badge/OVERTHEWIRE-000000?style=for-the-badge&logo=terminal" alt="OverTheWire">
-    <img src="https://img.shields.io/badge/PACKET%20TRACER-000000?style=for-the-badge&logo=cisco" alt="Packet Tracer">
-    <img src="https://img.shields.io/badge/NETWORKING-000000?style=for-the-badge&logo=globe" alt="Networking">
   </div>
 </div>
 
