@@ -25,7 +25,7 @@
 ![Powershell](https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&logo=powershell)
 ![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash)
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python)
+    ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
