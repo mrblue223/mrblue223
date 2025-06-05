@@ -2,10 +2,9 @@
 
 
 📊 Present Status 📊
-- 🔭 I’m currently working passing my Network + exam 
+- 🔭 I’m currently working on passing my Network+ exam 
 - 🌱 I’m currently learning networking!
 - 👯 I’m a CTF player, who loves new challenges
-- 🖥️ I know Python, Bash, Html, Css, Js
 
 <!--
 **mrblue223/mrblue223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
