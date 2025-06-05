@@ -8,35 +8,39 @@
 
 💡 Knowledge / Skills / Tools 💡
 
+![Metasploit](https://img.shields.io/badge/METASPLOIT-%23282C34?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23282C34?style=for-the-badge&logo=burp%20suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23282C34?style=for-the-badge&logo=owasp%20zap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%23282C34?style=for-the-badge&logo=wireshark&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%23282C34?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23282C34?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23282C34?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nmap,burpsuite,tryhackme,hackthebox,picoctf,overthewire,owasp,cisco,python,html,css,js,kali,ubuntu,debian,virtualbox" />
-</p>
+![Debian](https://img.shields.io/badge/Debian-%23282C34?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23282C34?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23282C34?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23282C34?style=for-the-badge&logo=github&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23282C34?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23282C34?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Powershell](https://img.shields.io/badge/Powershell-%23282C34?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23282C34?style=for-the-badge&logo=gnubash&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-%23282C34?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%23282C34?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-%23282C34?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%23282C34?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23282C34?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23282C34?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23282C34?style=for-the-badge&logo=javascript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23282C34?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23282C34?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
-![Nmap](https://img.shields.io/badge/Nmap-E4332D?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-EB652B?style=for-the-badge&logo=burp%20suite&logoColor=white)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-2C73D8?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME) [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-20C997?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/profile/YOUR_HTB_PROFILE_ID) ![picoCTF](https://img.shields.io/badge/picoCTF-C41230?style=for-the-badge&logo=picoctf&logoColor=white)
-![OverTheWire](https://img.shields.io/badge/OverTheWire-32383F?style=for-the-badge&logo=overthewire&logoColor=white)
-
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge&icon=security&iconColor=white)
-
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-%23282C34?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23282C34?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%23282C34?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%23282C34?style=for-the-badge&logo=hackthebox&logoColor=white)
+![HackerOne](https://img.shields.io/badge/HackerOne-%23282C34?style=for-the-badge&logo=hackerone&logoColor=white)
+![Intigriti](https://img.shields.io/badge/Intigriti-%23282C34?style=for-the-badge&logo=intigriti&logoColor=white)
 
 <!--
 **mrblue223/mrblue223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
