@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" alt="CSS3">
     <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript" alt="JavaScript">
-    </div>
+  </div>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-top: 5px;">
     <img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme" alt="TryHackMe">
