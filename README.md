@@ -2,7 +2,7 @@
 
 
 📊 Present Status 📊
-- 🔭 I’m currently working on passing my Network+ exam 
+- 🔭 I’m currently working on passing my Network+ exam, Security+, CEH
 - 🌱 I’m currently learning networking!
 - 👯 I’m a CTF player, who loves new challenges
 
