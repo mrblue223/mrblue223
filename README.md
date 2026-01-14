@@ -3,7 +3,7 @@
 
 📊 Present Status 📊
 - 🔭 I’m currently working on passing my CEHv13
-- 🌱 I’m currently learning networking!
+- 🌱 I’m currently studying for my exam!
 - 👯 I’m a CTF player, who loves new challenges
 
 💡 Knowledge / Skills / Tools 💡
