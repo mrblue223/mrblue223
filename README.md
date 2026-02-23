@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ⚠️ Disclaimer ⚠️
-- The tools and writeups in the repositories are for educational education only and not to be used for non ethical hacking.
+- The tools and writeups in the repositories are for **educational purposes only**, and not to be used for accessing computers **you do not own**.
 
 📊 Present Status 📊
 - 🔭 I’m currently working on passing my CEHv13
