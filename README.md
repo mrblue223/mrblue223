@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on passing my CEHv13
 - 🌱 I’m currently studying for my exam!
 - 👯 I’m a CTF player, who loves new challenges
-
+- 🛠️ Work in progress ghost(OSINT), and quantum blender(Cryptography)
 💡 Knowledge / Skills / Tools 💡
 
 <div style="text-align: center;">  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;"> <img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit" alt="Metasploit">
