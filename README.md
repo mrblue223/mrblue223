@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-⚠️ Disclaimer ⚠️
-- The tools and writeups in the repositories are for **educational purposes only**, and not to be used for accessing computers **you do not own**.
+I'm a cybersecurity student and CTF player who learns by building tools, writing detections and documenting what I break in labs.
 
-📊 Present Status 📊
-- 🔭 I’m currently working on passing my CEHv13
-- 🌱 I’m currently studying for my exam!
-- 👯 I’m a CTF player, who loves new challenges
-- 🛠️ Work in progress ghost(OSINT), and quantum blender(Cryptography)
-💡 Knowledge / Skills / Tools 💡
+📊 **Present status**
+- 🔭 Working toward my CEHv13
+- 👯 CTF player who loves new challenges
+- 🛠️ Work in progress: OSINT tooling and post-quantum cryptography
 
-<div style="text-align: center;">  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;"> <img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit" alt="Metasploit">
+## 🚀 Featured projects
+
+| Project | What it is |
+|---|---|
+| [Pentest-Report](https://github.com/mrblue223/Pentest-Report) | Pentest reports from CTF and lab environments (PTES, NIST SP 800-115, MITRE ATT&CK, CVSS) |
+| [Sentinel-Logic](https://github.com/mrblue223/Sentinel-Logic) | Custom KQL detection queries for Microsoft Sentinel |
+| [JWTrike](https://github.com/mrblue223/JWTrike) | JWT/JWE auditing: decoding, secret cracking, vulnerability scanning |
+| [SiteSentry](https://github.com/mrblue223/SiteSentry) | Automated website recon with structured JSON reports |
+| [PortSwigger](https://github.com/mrblue223/PortSwigger) | Web Security Academy writeups and tools |
+| [TryHackMe](https://github.com/mrblue223/TryHackMe) | CTF writeups from recon to privilege escalation |
+
+## 💡 Knowledge / Skills / Tools
+
+
+<div align="center">  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;"> <img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit" alt="Metasploit">
     <img src="https://img.shields.io/badge/BURPSUITE-000000?style=for-the-badge&logo=burpsuite" alt="Burpsuite">
     <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp%20zap" alt="OWASP ZAP">
     <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark" alt="Wireshark">
@@ -44,17 +55,6 @@
   </div>
 </div>
 
-<!--
-**mrblue223/mrblue223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚠️ Disclaimer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The tools and writeups in my repositories are for **educational purposes only**. Do not use them to access computers you do not own.
